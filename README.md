@@ -2,7 +2,9 @@
 
 Working Flow Of Spring Security
 
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d2370645-e345-41b9-9cd9-88b21924285c" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/d2370645-e345-41b9-9cd9-88b21924285c" />
+
+
 
 - Request Enters Filter Chain: Client request hits the application's security filter chain.
 - Authentication Filter: Extracts credentials from the request.
